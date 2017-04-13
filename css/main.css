@@ -9,6 +9,8 @@ button{
     height:100px;
     display:block;
     float:left;
+  text-align: center;
+  border: none;
 
 }
 .qwerty{
