@@ -2,9 +2,15 @@ a:hover {
     background-color: yellow;
     cursor: pointer;
 }
+button{
+  border: none;
+  text-align: center;
+
+}
 .qwerty{
   background-color: blue;
   width: 5%;
+  border-radius: 15px;
 
 }
 .qwerty12{
