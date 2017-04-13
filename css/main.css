@@ -1,0 +1,18 @@
+a:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
+.qwerty{
+  background-color: blue;
+  width: 5%;
+
+}
+.qwerty12{
+  background-color: pink;
+  height: 7%;
+
+}
+.qwerty123{
+  background-color: red;
+  padding: 4px;
+}
