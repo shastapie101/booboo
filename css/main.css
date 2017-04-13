@@ -2,6 +2,9 @@ a:hover {
     background-color: yellow;
     cursor: pointer;
 }
+button{
+  border: none;
+}
 .qwerty{
   background-color: blue;
   width: 5%;
